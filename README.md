@@ -1,5 +1,5 @@
 
-# Customer Expenditure Analysis based on data queried from the Sakila sample database version 1.2
+# Customer Expenditure Analysis Based on Data Queried from the Sakila Sample Database Version 1.2
 
 ## Chart
 
